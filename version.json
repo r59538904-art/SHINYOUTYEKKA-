@@ -5,7 +5,7 @@
     "subject": "非同期処理の競合とタイムアウト漏れを修正、未使用定数を適用"
   },
   "data": {
-    "fetchedAt": "2026-09-16T05:43:37.825Z",
+    "fetchedAt": "2026-09-17T05:35:21.033Z",
     "latestMarginWeek": "2026/9/11",
     "stockCount": 21
   }
